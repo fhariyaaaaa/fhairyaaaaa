@@ -26,8 +26,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fhariya-blue)](https://www.linkedin.com/in/fhariya)
 
 
-## 🏆 Achievements
-![Achievement](https://img.shields.io/badge/Achievement-1-blue)
-![Achievement](https://img.shields.io/badge/Achievement-2-green)
-
-
